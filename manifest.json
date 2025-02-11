@@ -4,6 +4,7 @@
   "description": "A detailed description of your application",
   "start_url": "/tlbtc_mvp_export/godot_game.html",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
   "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#000000",
