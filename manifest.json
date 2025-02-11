@@ -10,44 +10,20 @@
   "categories": ["productivity", "utilities"],
   "icons": [
     {
-      "src": "/icons/Icon-196.png",
+      "src": "/Icon-196.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "any maskable"
     },
     
     {
-      "src": "/icons/Icon-512.png",
+      "src": "/Icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "shortcuts": [
-    {
-      "name": "Feature 1",
-      "short_name": "F1",
-      "description": "Quick access to Feature 1",
-      "url": "/feature1",
-      "icons": [{ "src": "/icons/feature1.png", "sizes": "192x192" }]
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "/screenshots/desktop.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Desktop view of the app"
-    },
-    {
-      "src": "/screenshots/mobile.png",
-      "sizes": "720x1280",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Mobile view of the app"
-    }
-  ],
+  
   "prefer_related_applications": false,
   "related_applications": [],
   "scope": "/",
