@@ -2,7 +2,7 @@
   "name": "TLBTC",
   "short_name": "Thinkers",
   "description": "A detailed description of your application",
-  "start_url": "/godot_game.html",
+  "start_url": "/tlbtc_mvp_export/godot_game.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#ffffff",
