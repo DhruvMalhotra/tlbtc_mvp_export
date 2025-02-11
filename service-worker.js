@@ -1,6 +1,5 @@
 const CACHE_NAME = 'your-app-v1';
 const assetsToCache = [
-    './',
     './godot_game.html',
     './manifest.json',
     // Add paths to all your important files:
