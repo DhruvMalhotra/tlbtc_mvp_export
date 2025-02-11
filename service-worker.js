@@ -4,8 +4,7 @@ const assetsToCache = [
     '/godot_game.html',
     '/manifest.json',
     // Add paths to all your important files:
-    '/css/style.css',
-    '/js/main.js',
+    '/service-worker.js',
     '/Icon-196.png',
     '/Icon-512.png'
 ];
