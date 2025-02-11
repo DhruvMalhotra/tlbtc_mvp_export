@@ -1,12 +1,12 @@
 const CACHE_NAME = 'your-app-v1';
 const assetsToCache = [
     '/',
-    '/godot_game.html',
-    '/manifest.json',
+    'godot_game.html',
+    'manifest.json',
     // Add paths to all your important files:
-    '/service-worker.js',
-    '/Icon-196.png',
-    '/Icon-512.png'
+    'service-worker.js',
+    'Icon-196.png',
+    'Icon-512.png'
 ];
 
 // Install service worker and cache assets
