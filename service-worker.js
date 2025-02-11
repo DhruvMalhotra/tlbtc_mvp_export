@@ -1,12 +1,12 @@
 const CACHE_NAME = 'your-app-v1';
 const assetsToCache = [
     '/',
-    'godot_game.html',
-    'manifest.json',
+    '/tlbtc_mvp_export/godot_game.html',
+    '/tlbtc_mvp_export/manifest.json',
     // Add paths to all your important files:
-    'service-worker.js',
-    'Icon-196.png',
-    'Icon-512.png'
+    '/tlbtc_mvp_export/service-worker.js',
+    '/tlbtc_mvp_export/Icon-196.png',
+    '/tlbtc_mvp_export/Icon-512.png'
 ];
 
 // Install service worker and cache assets
