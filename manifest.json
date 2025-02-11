@@ -10,14 +10,14 @@
   "categories": ["productivity", "utilities"],
   "icons": [
     {
-      "src": "/Icon-196.png",
+      "src": "/tlbtc_mvp_export/Icon-196.png",
       "sizes": "196x196",
       "type": "image/png",
       "purpose": "any maskable"
     },
     
     {
-      "src": "/Icon-512.png",
+      "src": "/tlbtc_mvp_export/Icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
